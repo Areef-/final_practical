@@ -1,0 +1,17 @@
+body{
+    background-color: #eee;
+}
+
+h1{
+    color: #999;
+}
+
+.card {
+    width: 100%;
+}
+
+
+.search_box{
+    text-align: center;
+    margin: 5rem;
+}
